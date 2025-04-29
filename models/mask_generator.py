@@ -1,0 +1,1 @@
+<PASTE CONTENT YOU PROVIDED FOR model_mask_generator.py>
